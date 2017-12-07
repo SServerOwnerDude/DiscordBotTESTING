@@ -1,0 +1,15 @@
+{
+
+  "name": "New-bot",
+
+  "version": "1.0.0",
+
+  "description": "My own Discord bot",
+
+  "main": "bot.js",
+
+  "author": "PoloRon2k18",
+
+  "dependencies": {}
+
+}
